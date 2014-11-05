@@ -4,6 +4,16 @@
 
 ### Minor Enhancements
 
+### Bug Fixes
+
+### Development Fixes
+
+### Site Enhancements
+
+## 2.5.0 / 2014-11-06
+
+### Minor Enhancements
+
   * Centralize path sanitation in the `Site` object (#2882)
   * Allow placeholders in permalinks (#3031)
   * Fancy Indexing with WEBrick (#3018)
